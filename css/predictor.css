@@ -1,0 +1,54 @@
+/* wrapper for entire site */
+#wrapper
+{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	font-family: Verdana;
+	border: 1px solid rgba(0,0,0,0.5);
+	border-radius: 20px;
+	background: rgba(0,0,0,0.10);
+	padding: 30px;
+}
+
+/* header at top of wrapper */
+#header
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 95%;
+}
+
+/* footer at bottom of wrapper */
+#footer
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 95%;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 9px;
+}
+
+/* center of wrapper */
+#content
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 95%;
+}
+
+/* input box, top of content */
+#input
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	text-align: center;
+	width: 95%;
+	height: 75px;
+}
